@@ -1,3 +1,3 @@
-# akka-cluster-consumer
+# akka-cluster-producer
 
-A simple application playing the consumer in an Akka cluster.
+A simple application playing the producer in an Akka cluster.
